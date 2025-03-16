@@ -1,9 +1,13 @@
-# Language
+# Languages
 
-## Python, C++ 기본 ##
+## Python, C++, JAVA ... ##
 
-Python 기본 문법과
+Python 기본 문법
 
-C++ 기본 문법을 학습하고
+C++ 기본 문법
+
+JAVA 기본 문법
+
+...
 
 각 예제들을 공부하자
