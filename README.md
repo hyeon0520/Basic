@@ -1,4 +1,4 @@
-# Languages
+# Language
 
 ## Python, C++, JAVA ... ##
 
