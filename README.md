@@ -1,4 +1,4 @@
-# Basic
+# Language
 
 ## Python, C++ 기본 ##
 
